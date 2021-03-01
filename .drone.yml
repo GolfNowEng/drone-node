@@ -8,7 +8,7 @@ build:
     - npm run test
   environment:
     - DRONE_SERVER=http://127.0.0.1:8000
-    - DRONE_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZXh0Ijoib2N0b2NhdCIsInR5cGUiOiJ1c2VyIn0.JtytoXhBb829-8V3W3T6SiXIP_NabrtA9tALItuQyqw
+    - DRONE_TOKEN=xxxxxxxx
 
 compose:
   drone:
